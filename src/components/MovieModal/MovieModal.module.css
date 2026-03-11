@@ -85,3 +85,7 @@
 .closeButton:focus {
   outline: 2px solid #007bff;
 }
+
+.body-no-scroll {
+  overflow: hidden;
+}
